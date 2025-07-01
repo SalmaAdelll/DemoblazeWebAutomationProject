@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Report theme: options are "standard" or "dark" -->
+        <theme>dark</theme>
+
+        <!-- Encoding format -->
+        <encoding>UTF-8</encoding>
+
+        <!-- Protocol for loading scripts/styles (https recommended) -->
+        <protocol>https</protocol>
+
+        <!-- Title shown in the browser tab -->
+        <documentTitle>Amit Final Project - Demoblaze</documentTitle>
+
+        <!-- Report name shown in the navigation bar -->
+        <reportName>Amit Final Project - Demoblaze UI</reportName>
+
+        <!-- Run report offline without internet -->
+        <offlineMode>true</offlineMode>
+
+        <!-- Disable thumbnail previews for Base64 screenshots -->
+        <thumbnailForBase64>false</thumbnailForBase64>
+
+        <!-- Custom JavaScript if needed -->
+        <js></js>
+
+        <!-- Custom CSS styling if needed -->
+        <css></css>
+    </configuration>
+</extentreports>
